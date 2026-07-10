@@ -215,7 +215,7 @@ export default function App() {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        access_key: 'YOUR_WEB3FORMS_KEY',
+        access_key: 'df07ab18-8228-4c6d-a81f-b24f1dd1d6aa',
         subject,
         from_name: data.name,
         ...data,
